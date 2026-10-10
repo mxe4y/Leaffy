@@ -1,2 +1,2 @@
-# YablokoOS
-A bare-metal 64-bit operating system written entirely in Zig. Built from scratch to explore low-level development, memory management, and system arc
+# Leaffy
+ A bare-metal 32-bit operating system written in C and Assembly. Built from scratch to explore low-level development, memory management, and x86 architecture.
